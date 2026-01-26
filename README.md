@@ -1,4 +1,4 @@
-# Project Name: Onimusha
+# Onimusha
 
 ### **Discord-Based Remote Access Trojan or C2 Framework**
 
