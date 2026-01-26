@@ -44,28 +44,14 @@ This project is designed to demonstrate how legitimate cloud services can be use
 
 ## 2. Configuration
 
-Edit the `config.py` (or the main script) to include your credentials:
+Edit the `EXE` to include your credentials:
 
 ```python
-BOT_TOKEN = "YOUR_DISCORD_BOT_TOKEN"
-CHANNEL_ID = "YOUR_TARGET_CHANNEL_ID"
+TOKEN = "YOUR DISCORD BOT TOKEN"
+SERVER = "YOUR SERVER ID"
+OWNER = "YOUR OWNER ID"
 
 ```
-
-## 3. Compilation to EXE
-
-To package the Python script into a standalone executable for Windows:
-
-```bash
-pip install pyinstaller
-pyinstaller --noconsole --onefile agent.py
-
-```
-
-The resulting binary will be located in the `dist/` folder.
-
----
-
 ## Command Overview
 
 | Command | Action |
