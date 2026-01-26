@@ -20,14 +20,10 @@ This project is designed to demonstrate how legitimate cloud services can be use
 ---
 
 ## Features
-
-* **Bot-Command Interface:** Execute system commands via Discord prefix commands (e.g., `!shell whoami`).
+* **Real-time Interaction:** Interact with your agent and gain the machine.
 * **Secure Token Integration:** Communication is tied to a specific **Bot Token** and **Channel ID**.
 * **File Exfiltration:** Download files from the target machine directly into your Discord chat.
-* **Real-time Interaction:**
-* **.ss:** Take a screenshot and upload it to the channel.
-* **.upload/.download:** Seamless file transfer.
-* **.cmd:** Run command prompt.
+
 
 
 
