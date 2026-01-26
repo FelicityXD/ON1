@@ -1,9 +1,3 @@
-Integrating a **Discord Bot** as a Command & Control (C2) server is a clever way to bypass traditional firewalls, as Discord traffic is usually white-listed in corporate and home environments.
-
-Here is a refined, professional README tailored specifically for a **Discord-based RAT**.
-
----
-
 # Project Name: Onimusha
 
 ### **Discord-Based Remote Access Trojan or C2 Framework**
