@@ -90,4 +90,3 @@ The resulting binary will be located in the `dist/` folder.
 
 ---
 
-**Would you like me to add a Python code snippet that handles the "Self-Destruct" or "Clear Logs" feature to make the agent more stealthy?**
