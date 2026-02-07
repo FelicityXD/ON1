@@ -1,4 +1,4 @@
-# Onimusha
+# ON1
 
 ### **Discord-Based Remote Access Trojan or C2 Framework**
 
